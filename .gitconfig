@@ -1,3 +1,6 @@
 [user]
 	email = divya.20jdai013@jietjodhpur.ac.in
 	name = gladiatordiv
+[http]
+	postBuffer = 157286400
+	version = HTTP/2.0
